@@ -9,6 +9,7 @@ function App() {
         <h1>Justin Moriarty</h1>
         <p>I like to solve problems and drink coffee.</p>
         <p>Cycling is my sport.</p>
+        <p>https://noco-db-production-bfa4.up.railway.app/dashboard/#/</p>
       </header>
     </div>
   );
